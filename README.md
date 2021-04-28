@@ -27,8 +27,8 @@ Once you have complete a set of excercise, switch roles and do it again.
 **Both PartnerA & PartnerB**
 1. Navigate to the repo
 2. Click `Code` and copy the `ssh link`
-3. In your terminal navigate to your course folder
-4. Use the command `$ git clone [ssh link] 122D-lab-js-git-and-github`
+3. In your terminal navigate to your `unit-1` folder
+4. Use the command `$ git clone [ssh link]`
 
 # Exercise 1
 **PartnerB**
