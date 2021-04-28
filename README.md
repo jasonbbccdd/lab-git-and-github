@@ -22,6 +22,8 @@
 # Requirements
 This lab requires 2 person and will be refered to `partnerA` & `partnerB`.
 
+Once you have complete a set of excercise, switch roles and do it again.
+
 # Setup
 **PartnerA**
 1. On the upper right, click `Fork` (Select your own account if prompted)
@@ -52,7 +54,7 @@ This lab requires 2 person and will be refered to `partnerA` & `partnerB`.
 
 **PartnerA**
 1. Review PR
-2. Mark as approved and
+2. Mark as approved
 3. Merge the PR
 
 **Both PartnerA & PartnerB**
@@ -85,10 +87,6 @@ This lab requires 2 person and will be refered to `partnerA` & `partnerB`.
 4. Create and Merge the PR
 
 **PartnerA**
-<<<<<<< Updated upstream
-- Read the PR
-- Add comment asking **PartnerB** to change the `h1` to `Lab Git & Github`
-=======
 1. Create a branch called `feature/hashtag`
 2. Add `<div>#git #github #excercise</div>`
 3. Commit and push the `feature/hashtag` branch
@@ -101,4 +99,4 @@ This lab requires 2 person and will be refered to `partnerA` & `partnerB`.
 
 **Both PartnerA & PartnerB**
 1. Pull changes from `origin/master` to `master`
->>>>>>> Stashed changes
+
