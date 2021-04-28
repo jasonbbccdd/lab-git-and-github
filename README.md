@@ -13,11 +13,6 @@
 
 # Starter code
 - No starter code
-- On the upper right, click `Fork` (Select your own account if prompted)
-- Click `Code` and copy the `ssh link`
-- In your terminal navigate to your course folder
-- Use the command `$ git clone [ssh link] 121B-lab-js-array-problems`
-- Run Code Runner
 
 # Requirements
 This lab requires 2 person and will be refered to `partnerA` & `partnerB`.
