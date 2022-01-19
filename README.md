@@ -87,7 +87,7 @@ Once you have complete a set of excercise, switch roles and do it again.
 3. Commit and push the `feature/hashtag` branch
 4. Create a PR and try merging (You shouldn't be able to as there are conflicts)
 5. Pull changes from `origin/master` to `master`
-6. Rebase `feature/hashtag` with `master`
+6. Rebase `feature/hashtag` with `master` (go to `feature/hashtag` branch first and use `git rebase master`)
 7. Try pushing the `feature/hashtag` branch (You shouldn't be able to as you have change the structure)
 8. Force push the `feature/hashtag` branch
 9. Merge the PR
